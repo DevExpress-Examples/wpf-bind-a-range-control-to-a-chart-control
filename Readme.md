@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainWindow.xaml](./CS/GoldPrices/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/GoldPrices/MainWindow.xaml.vb))**
+* **[MainWindow.xaml](./CS/GoldPrices/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GoldPrices/MainWindow.xaml))**
 * [MainWindow.xaml.cs](./CS/GoldPrices/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/GoldPrices/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How To: Bind a Range Control to a Chart Control 
